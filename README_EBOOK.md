@@ -2,14 +2,16 @@
 
 ## Quick Start
 
-Your book "The Lighthouse Within" has been converted to EPUB format and is ready for digital publishing!
+Your book "The Lighthouse Within" has been converted to EPUB and PDF formats - ready for digital publishing!
 
 ### Files in This Package:
 
-1. **lighthouse_within.epub** - Your finished ebook (ready to upload!)
-2. **lighthouse_within.tex** - Original LaTeX source file
-3. **latex_to_epub.py** - Conversion script (for future edits)
-4. **PUBLISHING_GUIDE.md** - Complete step-by-step publishing instructions
+1. **lighthouse_within.epub** - Your ebook file (15 KB) - For Kindle/Apple Books
+2. **lighthouse_within.pdf** - PDF version (54 KB) - For print and direct sharing
+3. **lighthouse_within.tex** - Original LaTeX source file
+4. **latex_to_epub.py** - EPUB conversion script (for future edits)
+5. **latex_to_pdf.py** - PDF conversion script (for future edits)
+6. **PUBLISHING_GUIDE.md** - Complete step-by-step publishing instructions
 
 ## What You Can Do Now:
 
@@ -33,6 +35,12 @@ Your book "The Lighthouse Within" has been converted to EPUB format and is ready
 - Upload to both Kindle and Apple Books
 - Consider Google Play Books, Kobo, Barnes & Noble
 - Or use aggregators like Draft2Digital
+
+### Option 4: Share the PDF Directly
+- Email `lighthouse_within.pdf` to friends and family
+- Upload to your website or blog
+- Use for print-on-demand services (Lulu, IngramSpark)
+- Share on Google Drive, Dropbox, or similar
 
 ## What You Need Next:
 
